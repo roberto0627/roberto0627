@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<!--
-**roberto0627/roberto0627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const Roberto = {
+pronouns: "he" | "him",
+code: [C#, Javascript, Typescript, HTML, CSS],
+tools: [AEM, Storybook, Vue, React, Redux, Node, Express, sequlize, Sass, Bootstrap, Webpack, Babel]
+databases: [ Sqlserver, MYSQL, PostgreSQL, MONGODB]
+}
 
 Here are some ideas to get you started:
 
