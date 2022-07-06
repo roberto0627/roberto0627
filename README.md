@@ -16,10 +16,19 @@ databases: [ Sqlserver, MYSQL, PostgreSQL, MONGODB]
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
-Who I am?
+## Who I am?
+
 Hi! Mi name is Roberto, I am a Computer and Informatics technician with experience in the area of ​​web development. I enjoy to learn and teach new thing each day.
 
-Why I?
-I have research capacity and  As developer I'm learning constantly and has worked on a variety of projects applying different tech stack;  AEM(cms), CSS, HTML, JAVA SCRIPT, SASS, REACT(ecma script 6) Redux, Node.js, Postgresql.  Also, tools like: Git, Github, Scrum(agile methodology) Storybook, design patterns as BEM
-My skills are: teamwork, perseverance, optimism and self-learning.
+## Why I?
+
+I have research capacity and  As developer I'm learning constantly and has worked on a variety of projects applying different tech stack;  AEM(cms), CSS, HTML, JAVA SCRIPT, SASS, REACT(ecma script 6) Redux, Node.js, Postgresql.  Also, tools like: Git, Github, Scrum(agile methodology) Storybook, design patterns as BEM.
+
+### My skills are: teamwork, perseverance, optimism and self-learning.
+
+## connect with me
+
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ingridrosselis)
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/_innng_)
 
