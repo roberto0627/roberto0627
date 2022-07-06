@@ -1,20 +1,13 @@
 ### Hi there 👋
 
-```const Roberto = {
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberto0627&show_icons=true&theme=radical)
+
+```js
+const Roberto = {
 pronouns: "he" | "him",
 code: [C#, Javascript, Typescript, HTML, CSS],
-tools: [AEM, Storybook, Vue, React, Redux, Node, Express, sequlize, Sass, Bootstrap, Webpack, Babel]
+tools: [AEM, Storybook, Vue, React, Redux, Node, Express, sequelize, Sass, Bootstrap, Webpack, Babel]
 databases: [ Sqlserver, MYSQL, PostgreSQL, MONGODB]
-}```
+}
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
