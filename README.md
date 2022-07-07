@@ -26,12 +26,12 @@ I have research capacity and  As developer I'm learning constantly and has worke
 
 ### My skills are: teamwork, perseverance, optimism and self-learning.
 
-How to reach me: roberto0627.vargas@gmail.com
-
 ## connect with me
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/roberto-carlos-vargas-b00423232/)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/RobertoVars)
 [![](https://img.shields.io/badge/-instagram-EE3E5D?style=flat-square)](https://www.instagram.com/robertowebdeveloper/)
+
+You can write me to this email: roberto0627.vargas@gmail.com
 
