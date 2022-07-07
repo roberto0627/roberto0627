@@ -26,6 +26,8 @@ I have research capacity and  As developer I'm learning constantly and has worke
 
 ### My skills are: teamwork, perseverance, optimism and self-learning.
 
+How to reach me: roberto0627.vargas@gmail.com
+
 ## connect with me
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
